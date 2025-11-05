@@ -10,6 +10,6 @@
 </head>
 <body>
     <h1>Hello, GitHub Pages!</h1>
-    <p>개인정보및 보안취약 주의</p>
+    <p>개인정보및 보안취약 주의!</p>
 </body>
 </html>
