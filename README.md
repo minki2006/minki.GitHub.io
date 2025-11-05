@@ -10,6 +10,6 @@
 </head>
 <body>
     <h1>Hello, GitHub Pages!</h1>
-    <p>저는 IT 전공 1학년입니다. 이제 HTML, CSS를 배워서 이 페이지를 꾸밀 거예요!</p>
+    <p>개인정보및 보안취약 주의</p>
 </body>
 </html>
